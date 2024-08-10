@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 I am passionate about creating efficient and scalable software solutions. I enjoy working on diverse projects, from web development to blockchain technologies, and I’m always eager to learn and adapt to new technologies.
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-profile).
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/khanthmuu) or [Twitter](https://x.com/khantm1259).
 
 
 <!--
