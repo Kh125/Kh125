@@ -1,61 +1,76 @@
-# 👋 Hello, I'm Khant Hmue!
+# Hi, I'm Khant Hmue 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in a range of technologies and tools. Below you'll find a summary of my skills and interests.
+**Backend & AI Engineer** based in Bangkok, Thailand.  
+I build production systems across Fintech, Logistics, and AI — specializing in Python, Go, RAG pipelines, and cloud-native architecture.
 
-## 🚀 Technologies & Tools
+3+ years · 2 companies · 2 IEEE papers · [khanthmue.com](https://khanthmue.com)
 
-<!-- List of programming languages aligned to the left -->
-![C#](https://img.shields.io/badge/-C%23-000000?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000000?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000000?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-000000?logo=hyperledger&logoColor=white)
+---
 
-<!-- List of frameworks aligned to the left -->
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-000000?logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-000000?logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?logo=laravel&logoColor=white)
+## 🔭 Currently Working On
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-000000?logo=azure&logoColor=white)
+- **MyanmarTrails** — AI-powered travel discovery platform for Myanmar ([live](https://myanmar-trails-stg.khanthmue.com))
+- **RAG pipelines** with Azure AI Foundry + Pinecone in production at Next Innovations
+- Learning **Go** for high-throughput backend services
 
-![Azure](https://img.shields.io/badge/-Azure-000000?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-000000?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-000000?logo=googlecloud&logoColor=white)
-![REST](https://img.shields.io/badge/-REST-000000?logo=api&logoColor=white)
-![API](https://img.shields.io/badge/-API-000000?logo=api&logoColor=white)
+---
 
-![Moodle](https://img.shields.io/badge/-Moodle-000000?logo=moodle&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-000000?logo=microsoft&logoColor=white)
-![CRM](https://img.shields.io/badge/-CRM-000000?logo=zoho&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-000000?logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
+## 🛠️ Tech Stack
 
-## 🌟 **About Me**
+**Languages**  
+![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?logo=mysql&logoColor=white)
 
-I am passionate about creating efficient and scalable software solutions. I enjoy working on diverse projects, from web development to blockchain technologies, and I’m always eager to learn and adapt to new technologies.
+**Backend & Cloud**  
+![Django](https://img.shields.io/badge/Django-000000?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000000?logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?logo=githubactions&logoColor=white)
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/khanthmuu) or [Twitter](https://x.com/khantm1259).
+**AI / ML**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-000000?logo=microsoftazure&logoColor=white)
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?logo=tailwindcss&logoColor=white)
 
-<!--
-**Kh125/Kh125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **MyanmarTrails** | Solo-built travel discovery platform — 35+ destinations, AI recommendations | Next.js · Python · PostgreSQL | [Live](https://myanmar-trails-stg.khanthmue.com) |
+| **Kyōzai Hub** | Multimodal RAG pipeline — OCR + LLMs for Japanese text analysis (60% faster lookup) | FastAPI · OpenAI · Firebase · Vector DB | [Live](https://nihongo.kaizen-den.space) · [Code](https://github.com/Kh125/japanese-reading-assistant) |
+| **Supply Chain dApp** | Decentralized supply chain with Hyperledger Fabric Smart Contracts | Hyperledger · Node.js · React | [Code](https://github.com/Kh125/supply-chain-management) |
+| **Talent Cloud** | HR-as-a-Service platform with NLTK semantic search + real-time WebSockets | Django · React · AWS EC2 · Celery | [Live](https://staging.talent-cloud.asia) |
+
+---
+
+## 📄 Research & Recognition
+
+- 📝 *"Microservices vs Monoliths: A Comparative Analysis"* — ICAIT 2024
+- 📝 *"Toward Context-Aware Notification Service"* — ICCA 2024
+- 🏆 Finalist — ICPC Asia-Yangon Regional & Myanmar Collegiate Programming Contest
+- 🎓 FE (Fundamental IT Engineer) — METI Japan · Google Associate Cloud Engineer · GitHub Foundations
+
+---
+
+## 📫 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://khanthmue.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanthmuu)
+[![Email](https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white)](mailto:hmue.khant@outlook.com)
